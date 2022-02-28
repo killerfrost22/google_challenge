@@ -7,4 +7,4 @@ def solution(l):
                 memo[j] += 1
                 cnt += memo[i]
 
-    return cnt
+    return cntx cvv vc 
